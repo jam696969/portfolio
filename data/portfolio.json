@@ -1,0 +1,83 @@
+{
+  "personal": {
+    "name": "Al John Oga Lomocso",
+    "age": 25,
+    "birthdate": "September 18, 2001",
+    "country": "Philippines",
+    "languages": ["Filipino", "English"],
+    "status": "Available for opportunities",
+    "class": "Full Stack Developer",
+    "education": "Bachelor of Science in Information Technology (BSIT)"
+  },
+  "about": "Al John Oga Lomocso — a passionate Full Stack Web Developer from the Philippines with 3+ years of experience building modern, responsive, and user-friendly web applications. I specialize in crafting clean, efficient code and turning complex problems into simple, beautiful solutions. I'm a graduate of Bachelor of Science in Information Technology (BSIT), and I continuously expand my skillset across frontend and backend technologies. I enjoy learning new frameworks, exploring UI/UX design, contributing to open-source projects, and collaborating with other developers. Currently leveling up in React, Node.js, and database management.",
+  "skills": [
+    { "name": "HTML5", "level": 95 },
+    { "name": "CSS3", "level": 90 },
+    { "name": "JavaScript", "level": 85 },
+    { "name": "React", "level": 75 },
+    { "name": "Node.js", "level": 70 },
+    { "name": "MySQL", "level": 70 },
+    { "name": "Git", "level": 85 },
+    { "name": "GitHub", "level": 80 },
+    { "name": "PHP", "level": 70 },
+    { "name": "Bootstrap", "level": 80 },
+    { "name": "TypeScript", "level": 65 },
+    { "name": "Python", "level": 60 },
+    { "name": "MongoDB", "level": 60 },
+    { "name": "Figma", "level": 70 },
+    { "name": "Express", "level": 65 }
+  ],
+  "projects": [
+    {
+      "title": "PORTFOLIO v2",
+      "description": "A responsive developer portfolio website designed to showcase my skills, projects, and growth as a web developer using modern web technologies.",
+      "tags": ["HTML", "CSS", "JS"],
+      "source": "https://github.com/jam696969/portfolio",
+      "live": "https://jamsportfolio.is-great.org"
+    },
+    {
+      "title": "EYEhEAR FOUNDATION",
+      "description": "eyeHear is an accessibility-focused system that converts speech into text to help improve communication for deaf and hard-of-hearing users.",
+      "tags": ["JS", "CSS", "SPEECH API", "ACCESSIBILITY", "REAL-TIME"],
+      "source": "https://github.com/jam696969/eyehear",
+      "live": "https://eyehear.infinityfree.me"
+    },
+    {
+      "title": "E-COMMERCE UI",
+      "description": "Modern online shopping interface designed with responsive layouts and a clean, user-friendly experience.",
+      "tags": ["HTML", "CSS", "RESP"],
+      "source": "https://github.com/jam696969/ecommerce-ui",
+      "live": ""
+    }
+  ],
+  "experience": [
+    { "year": "2023", "title": "START GAME", "description": "Learned HTML, CSS, and built my first responsive websites." },
+    { "year": "2024", "title": "LEVEL UP: JAVASCRIPT", "description": "Focused on DOM manipulation, APIs, and interactive websites." },
+    { "year": "2025", "title": "NEW SKILL UNLOCKED: REACT", "description": "Started creating modern applications using React and Git." },
+    { "year": "PRESENT", "title": "FULL STACK MODE", "description": "Building portfolio projects while improving backend development skills." }
+  ],
+  "services": [
+    { "title": "WEB DEV", "description": "Building responsive, fast, and modern websites." },
+    { "title": "RESPONSIVE", "description": "Websites optimized for all screen sizes." },
+    { "title": "UI DESIGN", "description": "Clean interfaces focused on user experience." }
+  ],
+  "achievements": [
+    { "title": "WEB DEV", "description": "Building real-world projects and improving development skills.", "icon": "fa-laptop-code" },
+    { "title": "OPEN SOURCE", "description": "Learning Git workflows and contributing to developer communities.", "icon": "fa-code-branch" },
+    { "title": "LEARNING", "description": "Constantly improving through courses, practice, and projects.", "icon": "fa-graduation-cap" }
+  ],
+  "contact": {
+    "email": "aljohnoga2001@gmail.com",
+    "location": "Philippines",
+    "github": "github.com/jam696969",
+    "linkedin": "https://www.linkedin.com/in/al-john-lomocso-ba8b57422/",
+    "facebook": "https://web.facebook.com/jamjam6969",
+    "discord": "https://discord.gg/Mfw7tk3d"
+  },
+  "stats": {
+    "experience_years": 3,
+    "projects_count": "10+",
+    "frameworks": 3,
+    "repositories": 5
+  }
+}
